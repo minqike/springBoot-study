@@ -1,8 +1,10 @@
 package com.min.springboot.springboot_eventlistener.events;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 import org.springframework.context.ApplicationEvent;
 
+@EqualsAndHashCode(callSuper = true)
 @Data
 public class MyEvent extends ApplicationEvent {
 
