@@ -1,6 +1,7 @@
 package com.min.springboot.springboot_xmlserver.control;
 
 import com.min.springboot.springboot_xmlserver.entity.*;
+import com.min.springboot.springboot_xmlserver.entity.sub.*;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

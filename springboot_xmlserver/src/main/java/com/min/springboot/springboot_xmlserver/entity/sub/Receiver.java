@@ -1,4 +1,4 @@
-package com.min.springboot.springboot_xmlserver.entity;
+package com.min.springboot.springboot_xmlserver.entity.sub;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

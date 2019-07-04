@@ -1,4 +1,4 @@
-package com.min.springboot.springboot_xmlserver.entity;
+package com.min.springboot.springboot_xmlserver.entity.sub;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
