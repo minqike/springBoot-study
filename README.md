@@ -1,6 +1,6 @@
 ## springboot-SpringSecurity0  
 
-包含两部分代码：
+1包含两部分代码：
 
 * 第一是  博客 springboot+mybatis＋SpringSecurity 实现用户角色数据库管理   地址：http://blog.csdn.net/u012373815/article/details/54632176
 
