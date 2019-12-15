@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.jms.Queue;
-import java.time.Period;
 import java.util.Date;
 
 @RestController
