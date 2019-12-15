@@ -20,3 +20,4 @@
 *.log
 !application.properties
 .mvn
+target
